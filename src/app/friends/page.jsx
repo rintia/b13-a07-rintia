@@ -1,8 +1,10 @@
+
 import Image from "next/image";
 import Link from "next/link";
 
 const AllFriend = ({ data }) => {
   if (!data?.id) return null;
+
 
   return (
     <Link href={`/friends/${data.id}`}>

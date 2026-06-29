@@ -1,6 +1,5 @@
 import React from "react";
 import MyLink from "./MyLink";
-import logoImage from '@/assets/images/logo.png'
 import Image from "next/image";
 import { GoHome } from "react-icons/go";
 import { IoTimeOutline } from "react-icons/io5";
@@ -31,11 +30,11 @@ const Navbar = () => {
   return (
     <nav className=" shadow">
       <div className="flex justify-between gap-4 items-center container mx-auto">
-        <Image
-        src={logoImage}
-        alt='logo image'
-        
-        />
+      <Image src='/assets/logo.png'
+                  width={150}
+                  height={60}
+                  
+                  alt=""/>
 
         <ul className="flex justify-between gap-2 items-center">
           {navItems.map((item, index) => (

@@ -6,7 +6,7 @@ const FinalSummary = () => {
     const { summary, setSummary } = useContext(SummaryContext);
     return (
         <div>
-            <h1 className='text-3xl font-bold text-center'>Time Line</h1>
+            <h1 className='text-3xl font-bold text-center'>Timeline</h1>
             <button className='btn btn-ghost'>Filter Time Line</button>
             <div>
                 {
