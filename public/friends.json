@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Emily Carter",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "email": "emily.carter@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during university orientation. We still go hiking together every winter.",
+    "goal": 14,
+    "next_due_date": "2026-05-18"
+  },
+  {
+    "id": 2,
+    "name": "Daniel Kim",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    "email": "daniel.kim@example.com",
+    "days_since_contact": 5,
+    "status": "on track",
+    "tags": ["work", "gaming"],
+    "bio": "Former coworker who loves online strategy games and coffee shop hangouts.",
+    "goal": 10,
+    "next_due_date": "2026-05-15"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Martinez",
+    "picture": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+    "email": "sophia.martinez@example.com",
+    "days_since_contact": 27,
+    "status": "overdue",
+    "tags": ["travel", "best friend"],
+    "bio": "We traveled across three countries together during summer vacation.",
+    "goal": 21,
+    "next_due_date": "2026-05-04"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+    "email": "michael.brown@example.com",
+    "days_since_contact": 2,
+    "status": "on track",
+    "tags": ["gym", "neighbor"],
+    "bio": "Lives nearby and usually joins me for morning workouts.",
+    "goal": 14,
+    "next_due_date": "2026-05-22"
+  },
+  {
+    "id": 5,
+    "name": "Ava Wilson",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "email": "ava.wilson@example.com",
+    "days_since_contact": 11,
+    "status": "due soon",
+    "tags": ["book club", "teacher"],
+    "bio": "We met at a local reading club and exchange book recommendations often.",
+    "goal": 12,
+    "next_due_date": "2026-05-12"
+  },
+  {
+    "id": 6,
+    "name": "Noah Anderson",
+    "picture": "https://images.unsplash.com/photo-1504593811423-6dd665756598",
+    "email": "noah.anderson@example.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["football", "school friend"],
+    "bio": "Childhood friend who now coaches a local football team.",
+    "goal": 20,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 7,
+    "name": "Isabella Nguyen",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "email": "isabella.nguyen@example.com",
+    "days_since_contact": 7,
+    "status": "on track",
+    "tags": ["art", "creative"],
+    "bio": "An artist friend who enjoys painting cafés and city landscapes.",
+    "goal": 14,
+    "next_due_date": "2026-05-17"
+  },
+  {
+    "id": 8,
+    "name": "James Patel",
+    "picture": "https://images.unsplash.com/photo-1504257432389-52343af06ae3",
+    "email": "james.patel@example.com",
+    "days_since_contact": 15,
+    "status": "due soon",
+    "tags": ["startup", "tech"],
+    "bio": "Met at a tech meetup and now regularly discuss startup ideas.",
+    "goal": 16,
+    "next_due_date": "2026-05-11"
+  }
+]
